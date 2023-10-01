@@ -1,0 +1,12 @@
+type Role {
+    id:  Int,
+    name: String,
+    description: String
+}
+
+type Skill {
+    id:  Int,
+    name: String,
+    description: String
+}
+
